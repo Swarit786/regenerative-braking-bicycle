@@ -1,6 +1,6 @@
 # Regenerative Braking System — Modular Front-Wheel Attachment for Bicycles
 
-![Hero Image](./renders/Front_Wheel_RBS_v25.png)
+![Hero Image](./renders/Front_Wheel_RBS_v25.jpg)
 
 > **Bachelor Thesis Project** · Silver Oak College of Engineering & Technology · Gujarat Technological University · 2020–21
 
@@ -26,7 +26,7 @@ In conventional friction braking, all kinetic energy is lost as heat through con
 
 The system is built around a **drum-brake-inspired mechanism** where the brake shoes are replaced by dynamos.
 
-![Full Wheel Rendered](./renders/c1_v43.png)
+![Full Wheel Rendered](./renders/c1_v43.jpg)
 
 ### How it works — step by step:
 
