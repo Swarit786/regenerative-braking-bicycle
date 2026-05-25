@@ -1,6 +1,6 @@
 # Regenerative Braking System — Modular Front-Wheel Attachment for Bicycles
 
-![Hero Image](renders/Front_Wheel_RBS_v25.png)
+![Hero Image](./renders/Front_Wheel_RBS_v25.png)
 
 > **Bachelor Thesis Project** · Silver Oak College of Engineering & Technology · Gujarat Technological University · 2020–21
 
@@ -26,7 +26,7 @@ In conventional friction braking, all kinetic energy is lost as heat through con
 
 The system is built around a **drum-brake-inspired mechanism** where the brake shoes are replaced by dynamos.
 
-![Full Wheel Rendered](renders/c1_v43.png)
+![Full Wheel Rendered](./renders/c1_v43.png)
 
 ### How it works — step by step:
 
@@ -36,13 +36,13 @@ The system is built around a **drum-brake-inspired mechanism** where the brake s
 4. **Braking:** The same contact friction that drives the dynamos also decelerates the wheel — braking and energy generation happen in the same event.
 5. **Storage:** Generated electricity is stored in a 12V lead-acid battery mounted on the frame, available for auxiliary use.
 
-![Mechanism Isolated](renders/mechanism_link_assembly.png)
+![Mechanism Isolated](./renders/mechanism_link_assembly.png)
 
 > The green V-shaped link is a scissor/pantograph mechanism — when pulled by the brake cable, the geometry of the pivot points forces both dynamo arms outward symmetrically and simultaneously, ensuring balanced contact force and equal engagement on both sides of the housing wall.
 
-![Mechanism in Housing](renders/front_view_casing.jpg)
+![Mechanism in Housing](./renders/front_view_casing.jpg)
 
-![Housing Detail](renders/casing.jpg)
+![Housing Detail](./renders/casing.jpg)
 
 ---
 
